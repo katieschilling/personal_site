@@ -7,6 +7,7 @@ gem 'rails-api'
 
 gem 'spring', :group => :development
 gem 'rspec-rails', :group => :test
+gem 'pry', :group => :test
 
 gem 'sqlite3'
 

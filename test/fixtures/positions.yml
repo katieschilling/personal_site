@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  company: MyString
+  location: MyString
+  start_date: 2015-06-05
+  end_date: 2015-06-05
+  milestones: MyString
+
+two:
+  title: MyString
+  company: MyString
+  location: MyString
+  start_date: 2015-06-05
+  end_date: 2015-06-05
+  milestones: MyString
